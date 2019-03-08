@@ -1,0 +1,3 @@
+[submodule "e2e/amber_meta"]
+	path = e2e/amber_meta
+	url = https://github.com/macrocosme/amber_meta.git
