@@ -1,2 +1,6 @@
 AMBER/log
 AMBER/output
+AMBER/data
+AMBER/plots
+AMBER/FRB140514
+*.pdf
